@@ -4,6 +4,23 @@ Qt 6 + OpenGL ile yazılmış, Mario tarzı bir 3D platform oyunu. Karakter, tam
 
 Model, doku ve ses dosyası yoktur. Her şey yordamsal olarak üretilir. Telifli hiçbir karakter ya da varlık kullanılmaz.
 
+![Oynanış](docs/images/oynanis.gif)
+
+## Ekran görüntüleri
+
+| | |
+|---|---|
+| ![Menü](docs/images/menu.png) | ![Oyun başlangıcı](docs/images/oyun-baslangic.png) |
+| ![Zıplama ve hücre toplama](docs/images/zipla.png) | ![Takla](docs/images/takla.png) |
+| ![Tuzaklar](docs/images/tuzak.png) | ![Portal kapalı](docs/images/portal-kapali.png) |
+| ![Portal açık](docs/images/portal-acik.png) | ![Bitiş ekranı](docs/images/tebrikler.png) |
+
+**Karakter: VOLT** (ön, üç-çeyrek, yan, arka görünüm)
+
+![VOLT karakter sayfası](docs/images/karakter.png)
+
+**Demo videosu:** [docs/volt-demo.mp4](docs/volt-demo.mp4) (indirip izleyebilirsiniz)
+
 ## İçindekiler
 
 1. [Gereksinimler](#gereksinimler)

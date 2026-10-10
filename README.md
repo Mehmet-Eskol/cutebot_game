@@ -155,3 +155,7 @@ Qt Creator'da **Projects → Run → Command line arguments** alanına yazabilir
 Bu proje Mehmet Eşkol tarafından yazılmıştır.
 
 İletişim için [mehmeteskol@gmail.com](mailto:mehmeteskol@gmail.com) adresine e-posta atabilirsiniz.
+
+## Lisans
+
+Bu proje [BSD 3-Clause](LICENSE) lisansı ile dağıtılmaktadır.

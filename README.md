@@ -21,6 +21,8 @@ Model, doku ve ses dosyası yoktur. Her şey yordamsal olarak üretilir. Telifli
 
 **Demo videosu:** [docs/volt-demo.mp4](docs/volt-demo.mp4) (indirip izleyebilirsiniz)
 
+**Demoyu izleyebilirsiniz:** [YouTube'da izle](https://youtu.be/yHU3Ihf6aGg)
+
 ## İçindekiler
 
 1. [Gereksinimler](#gereksinimler)

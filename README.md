@@ -1,6 +1,6 @@
 # VOLT — Devre Macerası
 
-Qt 6 + OpenGL ile yazılmış,bir 3D platform oyunu. Karakter, tamamen kodla üretilen özgün bir hümanoid robot olan **VOLT**'tur (turuncu-beyaz gövde, cam-mavisi gözler, enerji çekirdeği, anten).
+Qt 6 + OpenGL ile yazılmış, bir 3D platform oyunu. Karakter, tamamen kodla üretilen özgün bir hümanoid robot olan **VOLT**'tur (turuncu-beyaz gövde, cam-mavisi gözler, enerji çekirdeği, anten).
 
 Model, doku ve ses dosyası yoktur. Her şey yordamsal olarak üretilir. Telifli hiçbir karakter ya da varlık kullanılmaz.
 

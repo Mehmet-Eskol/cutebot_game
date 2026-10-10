@@ -143,7 +143,6 @@ Her şey yolundaysa çıktının sonunda `TÜM TESTLER GEÇTİ` yazar. Seviyeyi 
 - **Zorluk ve oyun hissi:** `Player.h` içindeki `PC::` sabitleri (yürüme/koşma hızı), `Player.cpp` içindeki zıplama hızları (`jv[]`) ve yerçekimi.
 - **Seviye:** `Level.cpp` içindeki `buildLevel()`. `plat()`, `mover()`, `coin*()`, `enemy()` ve `spike()` yardımcılarını kullanın. Değişiklikten sonra `volt_sim` ile geçilebilirliği doğrulayın.
 - **Robot görünümü:** `RobotModel.cpp` içindeki renk paleti ve parça ölçüleri.
-- **Kendi Blender modeliniz:** glTF olarak dışa aktarıp yükleyebilir ve `drawRobot()` yerine koyabilirsiniz. İskelet animasyonu için bu yolda kendi glTF yükleyicinizi yazmanız gerekir.
 
 ## Geliştirici seçenekleri
 
